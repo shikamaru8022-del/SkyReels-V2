@@ -1,3 +1,4 @@
+A hyper-realistic close-up video of a person slicing through an orange made of jelly with a sharp chef’s knife. The orange has intricate, detailed surface texture with glistening semi-transparent segments and slightly sticky, textured “rind.” As the blade cuts, the jelly emits a burst of tiny glowing orange particles for dramatic visual effect. The person’s hands are shown gripping the knife firmly, muscle tension and veins visible. The scene is set on a polished dark marble countertop with a deep black background to enhance contrast and focus on the jelly orange. Realistic lighting, extremely detailed textures on both the orange and the polished steel knife, cinematic atmosphere. With realistic slicing and jelly squish sound effects.
 <p align="center">
   <img src="assets/logo2.png" alt="SkyReels Logo" width="50%">
 </p>
